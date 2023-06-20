@@ -1,0 +1,112 @@
+@font-face {
+    font-family: Cyberpunk;
+    src: url(../Font/Cyberpunk.otf);
+}
+@font-face {
+    font-family: Cyberpunk2;
+    src: url(../Font/Cyberpunk2.ttf);
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    background-color: #0a0a0a;
+}
+.navbar a{
+    font-family: Cyberpunk2;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.jumbotron {
+    background-color: #e9ecef;
+    padding: 10px;
+    margin-bottom: 0;
+}
+
+.jumbotron h1 {
+    color: #333;
+    font-size: 40px;
+    margin-bottom: 20px;
+    text-align:justify;
+    font-family: Cyberpunk2;
+}
+
+.jumbotron p {
+    color: #ee1111;
+    font-size: 20px;
+    text-align: center;
+}
+
+.container {
+    margin-top: 40px;
+}
+
+.container h2 {
+    color: yellow;
+    font-size: 30px;
+    margin-bottom: 20px;
+    background-color: black;
+}
+
+.container p {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+}
+
+footer p {
+    font-size: 10px;
+}
+
+.navbar a {
+    color: white;
+}
+
+.dropdown-menu {
+    background-color: black;
+}
+
+.dropdown-menu li :hover {
+    background-color: black;
+    color: red;
+}
+
+h2 {
+    font-family: Cyberpunk;
+}
+
+.col-md-6 li {
+    font-family: Cyberpunk;
+}
+
+#meio3 p1{
+font-family: Cyberpunk;
+font-size: 20px;
+}
+#meio4 p{
+    font-style:italic;
+}
+h5{
+font-family: Cyberpunk2;
+}
+
+body{
+    background-image: url(../images/Background.jpg);
+}
+
+#meio .btn.btn-primary{
+background-color: black;
+}
+#meio a{
+    color: yellow;
+}
